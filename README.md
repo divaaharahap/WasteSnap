@@ -1,5 +1,5 @@
 # 🌱 WasteSnap: Take a Pic, Make a Difference 
-Proyek inovatif berbasis AI yang bertujuan untuk membantu masyarakat Indonesia mengidentifikasi dan mengelola sampah rumah tangga secara mandiri melalui platform berbasis web.
+Proyek inovatif berbasis website yang bertujuan untuk membantu masyarakat Indonesia mengidentifikasi dan mengelola sampah rumah tangga secara mandiri melalui platform berbasis web.
 
 ## 👨‍💻 Anggota Tim
 ### ID tim : CC25-CF318.
