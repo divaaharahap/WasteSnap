@@ -45,14 +45,13 @@ Proyek inovatif berbasis website yang bertujuan untuk membantu masyarakat Indone
 
 ---
 
-## 🧪 Fitur Utama (_WIP_)
+## 🧪 Fitur Utama (_Work in Progress_)
 
 - 📸 **Pemindai Sampah Real-Time** (berbasis kamera web)
 - 🧠 **Klasifikasi Gambar AI** (organik vs anorganik)
-- 📚 **Panduan Daur Ulang Interaktif**
 - 🧾 **FAQ Chatbot** berbasis NLP
 - 📍 **Peta Lokasi Bank Sampah** 
-- 📊 **Dashboard Riwayat Pemindaian**
+- 📊 **Riwayat Pemindaian**
 - 🤝 **Fitur Komunitas dan Edukasi**
 
 ---
